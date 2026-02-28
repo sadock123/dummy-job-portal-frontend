@@ -1,0 +1,24 @@
+[
+  {
+    "id": "1",
+    "title": "Strategy Consultant - Healthcare",
+    "company": "Top Tier Consulting Pvt Ltd",
+    "location": "Mumbai, Maharashtra",
+    "experience": "2-5 Yrs",
+    "salary": "₹ 15-25 Lacs PA",
+    "skills": ["Strategy", "Healthcare Consulting", "Data Analysis", "Market Entry"],
+    "description": "We are looking for a strategy consultant to drive growth in our healthcare vertical. The ideal candidate will have clinical experience transitioning into business strategy...",
+    "jdDownloadLink": "/jds/strategy_consultant_jd.pdf"
+  },
+  {
+    "id": "2",
+    "title": "Product Manager - Al Integration",
+    "company": "Tech Innovators India",
+    "location": "Bangalore, Karnataka",
+    "experience": "3-6 Yrs",
+    "salary": "Not disclosed",
+    "skills": ["Product Management", "AI/ML", "Agile", "Cross-functional Leadership"],
+    "description": "Seeking a PM to lead our cross-functional teams in integrating AI automation into our enterprise tools. Background in automation and data pipelines preferred...",
+    "jdDownloadLink": "/jds/product_manager_jd.pdf"
+  }
+]
