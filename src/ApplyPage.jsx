@@ -17,7 +17,7 @@ function ApplyPage({ jobId, onBack }) {
 
     try {
       // Send the POST request to your FastAPI backend
-     const response = await fetch('https://dummy-job-portal-backend.onrender.com', {
+     const response = await fetch('https://dummy-job-portal-backend.onrender.com/docs', {
         method: 'POST',
         body: formData,
       });
