@@ -1,24 +1,57 @@
 [
   {
     "id": "1",
-    "title": "Strategy Consultant - Healthcare",
-    "company": "Top Tier Consulting Pvt Ltd",
-    "location": "Mumbai, Maharashtra",
-    "experience": "2-5 Yrs",
-    "salary": "₹ 15-25 Lacs PA",
-    "skills": ["Strategy", "Healthcare Consulting", "Data Analysis", "Market Entry"],
-    "description": "We are looking for a strategy consultant to drive growth in our healthcare vertical. The ideal candidate will have clinical experience transitioning into business strategy...",
-    "jdDownloadLink": "/jds/strategy_consultant_jd.pdf"
+    "title": "KITES Intern",
+    "company": "Imperial Consumer Brands",
+    "location": "Pan-India",
+    "experience": "MBA Intern",
+    "salary": "₹ 2,20,000 per month",
+    "skills": ["Leadership", "Business Strategy", "Management", "Problem Solving"],
+    [cite_start]"description": "Knowledge, Initiative & Talent Excellence Series (KITES) is our flagship Summer Internship Programme designed to provide leaders of tomorrow with a unique platform to learn from, experience and manage real business situations[cite: 500]. [cite_start]Interns will have the opportunity to experience the rigor of live business scenarios, apply their theoretical learnings and gain precious insights into management[cite: 501]. [cite_start]Based on performance, interns are awarded Pre-Placement Offers (PPOs)[cite: 503].",
+    "jdDownloadLink": "/jds/imperial_kites_jd.pdf"
   },
   {
     "id": "2",
-    "title": "Product Manager - Al Integration",
-    "company": "Tech Innovators India",
-    "location": "Bangalore, Karnataka",
-    "experience": "3-6 Yrs",
-    "salary": "Not disclosed",
-    "skills": ["Product Management", "AI/ML", "Agile", "Cross-functional Leadership"],
-    "description": "Seeking a PM to lead our cross-functional teams in integrating AI automation into our enterprise tools. Background in automation and data pipelines preferred...",
-    "jdDownloadLink": "/jds/product_manager_jd.pdf"
+    "title": "Management Trainee - Business",
+    "company": "NextGen E-Commerce India",
+    "location": "Bangalore / Pan-India",
+    "experience": "MBA Intern",
+    "salary": "₹ 1,20,000 per month",
+    "skills": ["Category Management", "Marketing", "Business Development", "Analytical Skills"],
+    [cite_start]"description": "Join our one-year rotational program designed to groom future leaders for the Commerce Platform Group[cite: 539]. [cite_start]You will gain broad exposure across critical business functions like Category Management, Marketing, and Business Development[cite: 540]. [cite_start]You will undertake intensive, quick-churn projects and apply technical and functional depth to provide actionable insights and recommendations[cite: 542, 546]. [cite_start]The CTC for the full-time role post-internship is 28.4 LPA[cite: 562].",
+    "jdDownloadLink": "/jds/ecommerce_mt_jd.pdf"
+  },
+  {
+    "id": "3",
+    "title": "Intern – Business and Strategy Analyst",
+    "company": "Global Express Financial Services",
+    "location": "Gurgaon / Bangalore",
+    "experience": "MBA Intern",
+    "salary": "₹ 1,75,000 per month",
+    "skills": ["Strategy", "Financial Analysis", "Data Analytics", "Consulting"],
+    [cite_start]"description": "We are seeking a Business and Strategy Analyst for our summer internship program[cite: 612]. [cite_start]The compensation includes a base stipend of INR 1,75,000/month plus 4 months of virtual engagement at INR 9,000/month[cite: 612]. [cite_start]The selection process will involve an online assessment, resume shortlisting, and 2 rounds of interviews[cite: 622].",
+    "jdDownloadLink": "/jds/global_express_strategy_jd.pdf"
+  },
+  {
+    "id": "4",
+    "title": "Summer Analyst - Corporate Banking",
+    "company": "Global City Bank N.A.",
+    "location": "Mumbai",
+    "experience": "Penultimate Year MBA",
+    "salary": "₹ 2,00,000 per month",
+    "skills": ["Corporate Banking", "Capital Markets", "M&A", "Financial Restructuring"],
+    [cite_start]"description": "As a Summer Analyst, you will join an intensive 8-week program serving the financial needs of the world's preeminent corporations[cite: 672]. [cite_start]You will advise corporate clients who want to raise funds in capital markets and who need strategic support in financial transactions[cite: 672]. [cite_start]Initiatives include mergers, acquisitions, divestitures, financial restructurings, underwriting, and distributing equity and debt[cite: 672].",
+    "jdDownloadLink": "/jds/city_bank_analyst_jd.pdf"
+  },
+  {
+    "id": "5",
+    "title": "Associate Product Manager",
+    "company": "AI Automation Solutions Pvt. Ltd.",
+    "location": "Pune",
+    "experience": "MBA Intern",
+    "salary": "₹ 1,50,000 per month",
+    "skills": ["Product Management", "AI/ML", "Technical Scoping", "Agile"],
+    [cite_start]"description": "We are looking for an Associate Product Manager summer intern[cite: 441]. [cite_start]The selection process includes resume submission, group discussion, and 2-3 rounds of technical interviews[cite: 449, 451]. [cite_start]Compensation is a fixed stipend of INR 1,50,000 per month[cite: 443].",
+    "jdDownloadLink": "/jds/ai_automation_pm_jd.pdf"
   }
 ]
